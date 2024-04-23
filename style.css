@@ -1,0 +1,101 @@
+#Título{
+  color:mediumslateblue;
+  font-size: 70px;
+  font-style:italic;
+  text-align:center;
+  padding-bottom:100px;
+}
+#Weapons{
+ color:red;
+ font-size: 50px;
+ font-style:normal;
+ text-align:center;
+}
+#Armors{
+ color:blue;
+ font-size: 50px;
+ font-style:normal;
+ text-align:center;
+}
+#Items{
+  color:lightgreen;
+  font-size: 50px;
+  font-style:normal;
+  text-align:center;
+}
+#Miscellaneous{
+  color:white;
+  font-size: 50px;
+  font-style:normal;
+  text-align:center;
+}
+.Weapons{
+  color:red;
+  font-size : 30px;
+  font-style :italic;
+  border-width:0px;
+  padding-bottom:10px;
+  padding-left:70px;
+  padding-right:10px;
+  border-left-width:5px;
+  border-right-width:5px;
+  border-style:solid;
+}
+.Armors{
+  color:blue;
+  font-size : 30px;
+  font-style :italic;
+  border-width:0px;
+  padding-bottom:10px;
+  padding-left:70px;
+  padding-right:10px;
+  border-left-width:5px;
+  border-right-width:5px;
+  border-style:solid;
+   }
+ .Items{
+  color:lightgreen;
+  font-size : 30px;
+  font-style :italic;
+  border-width:0px;
+  padding-bottom:10px;
+  padding-left:70px;
+  padding-right:10px;
+  border-left-width:5px;
+  border-right-width:5px;
+  border-style:solid;
+ }
+ .Miscellaneous{
+  color:white;
+  font-size : 30px;
+  font-style :italic;
+  border-width:0px;
+  padding-bottom:10px;
+  padding-left:70px;
+  padding-right:10px;
+  border-left-width:5px;
+  border-right-width:5px;
+  border-style:solid;
+ }
+.link{
+  color:mediumslateblue;
+  font-size:20px;
+  text-decoration: none;
+}
+.display{
+  display:block;
+}
+p {
+  color:mediumslateblue;
+  border-style: solid;
+  border-bottom-width: 0;
+  border-top-width: 3px;
+  border-right-width: 0;
+  border-left-width: 0;
+}
+body{
+    background-color: mediumslateblue;
+    background-image:url(Ruinas.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
